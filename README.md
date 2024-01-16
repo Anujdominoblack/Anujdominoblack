@@ -29,7 +29,5 @@
 ## Top Repositories:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anujdominoblack&repo=DSA-using-c-)](https://github.com/Anujdominoblack/datastructuresandalgorithem)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anujdominoblack&repo=
-Let_us_Learn_C-)](https://github.com/Anujdominoblack
-Let_us_Learn_C-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anujdominoblack&repo=Let_us_Learn_C-)](https://github.com/Anujdominoblack/Let_us_Learn_C-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anujdominoblack&repo=Python)](https://github.com/Anujdominoblack/Python)
