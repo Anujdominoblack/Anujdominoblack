@@ -28,6 +28,6 @@
 
 ## Top Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anujdominoblackrepo=DSA-using-c-)](https://github.com/Anujdominoblack/datastructuresandalgorithem)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anujdominoblack&repo=Let-us-Learn-C-)](https://github.com/Rishu0204/Let_us_Learn-C++)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anujdominoblackrepo=Python)](https://github.com/Rishu0204/Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anujdominoblack&repo=DSA-using-c-)](https://github.com/Anujdominoblack/datastructuresandalgorithem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anujdominoblack&repo=Let-us-Learn-C-)](https://github.com/Rishu0204/Let_us_Learn-C-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anujdominoblack&repo=Python)](https://github.com/Rishu0204/Python)
