@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Anujdominoblack/Anujdominoblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working on Data science and Database Management comeptitive programming using c++
 
-Here are some ideas to get you started:
+### 🌱 I’m currently learning machine learning and django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💬 Ask me about datascience,c++,python and computervision
+
+### 📫 Reach me on [LinkedIn](www.linkedin.com/in/anuj-kumar-pandey-049125223)
+
+## Skills Learned:
+
+[![Python](https://visitcount.itsvg.in/api?id=Anujdominoblack&label=Python&color=4&icon=2&pretty=true)](https://github.com/Anujdominoblack)
+[![datascience](https://visitcount.itsvg.in/api?id=Anujdominoblack&label=datascience&color=4&icon=2&pretty=true)](https://github.com/Anujdominoblack)
+[![C++](https://visitcount.itsvg.in/api?id=Anujdominoblack&label=c++%2B%2B&color=4&icon=2&pretty=true)](https://github.com/Anujdominoblack)
+[![machinelearning](https://visitcount.itsvg.in/api?id=Anujdominoblack&label=machinelearning%20Scripting&color=4&icon=2&pretty=true)](https://github.com/Anujdominoblack)
+[![computervision](https://visitcount.itsvg.in/api?id=Anujdominoblack&label=computervision%20Programming&color=4&icon=2&pretty=true)](https://github.com/Anujdominoblack)
+[![django](https://visitcount.itsvg.in/api?id=Anujdominoblack&label=django&color=4&icon=2&pretty=true)](https://github.com/Anujdominoblack)
+[![C](https://visitcount.itsvg.in/api?id=Anujdominoblack&label=c&color=4&icon=2&pretty=true)](https://github.com/Anujdominoblack)
+[![DATASTRUCTURESANDALGORITHEM](https://visitcount.itsvg.in/api?id=Anujdominoblack&label=competitiveprogramming&color=4&icon=2&pretty=true)](https://github.com/Anujdominoblack)
+[![MySQL](https://visitcount.itsvg.in/api?id=Anujdominoblack&label=MySql&color=4&icon=2&pretty=true)](https://github.com/Anujdominoblack)
+
+
+## Git Stats:
+
+![ANUJ'SGITHUBSTATS](https://github-readme-stats.vercel.app/api?username=Anujdominoblack&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujdominoblack&layout=donut)](https://github.com/Anujdominoblack/github-readme-stats)
+
+## Top Repositories:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anujdominoblackrepo=DSA-using-c)](https://github.com/Anujdominoblack/datastructuresandalgorithem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anujdominoblack&repo=Let-us-Learn-C)](https://github.com/Rishu0204/Let_us_Learn-C++)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anujdominoblackrepo=Python)](https://github.com/Rishu0204/Python)
