@@ -20,7 +20,7 @@
 [![C](https://visitcount.itsvg.in/api?id=Anujdominoblack&label=c&color=4&icon=2&pretty=true)](https://github.com/Anujdominoblack)
 [![DATASTRUCTURESANDALGORITHEM](https://visitcount.itsvg.in/api?id=Anujdominoblack&label=competitiveprogramming&color=4&icon=2&pretty=true)](https://github.com/Anujdominoblack)
 [![MySQL](https://visitcount.itsvg.in/api?id=Anujdominoblack&label=MySql&color=4&icon=2&pretty=true)](https://github.com/Anujdominoblack)
-
+[![pandas](https://visitcount.itsvg.in/api?id=Anujdominoblack&label=pandas&color=4&icon=2&pretty=true)](https://github.com/Anujdominoblack)
 
 ## Git Stats:
 
