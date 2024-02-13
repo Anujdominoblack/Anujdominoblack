@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### 🔭 I’m currently working on Data science and Database Management comeptitive programming using c++
+### 🔭 I’m currently working on Data science and Database Management competitive programming using c++
 
 ### 🌱 I’m currently learning machine learning and django
 
